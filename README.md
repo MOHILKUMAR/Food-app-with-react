@@ -1,3 +1,23 @@
+# Food ordering App
+
+ * 
+ * Header
+ *  -logo
+ *  -Nav-items
+ * Body
+ *   -Search
+ *   -ResturentContainer
+ *      -ResturentCard
+ *         -Img
+ *         -Name of Resturent
+ *         - star rating
+ *         -cuisine ,etc.
+ *         -delivery time
+ * Footer
+ *  -CopyRight
+ *  -Links
+ *  -Address
+ *  -Contact
 
 📋 Project Brief: Food App with React
 🧾 Overview
@@ -90,26 +110,7 @@ The Food App with React is a practical project to demonstrate your front-end dev
 
 
 
-# Food ordering App
 
- * 
- * Header
- *  -logo
- *  -Nav-items
- * Body
- *   -Search
- *   -ResturentContainer
- *      -ResturentCard
- *         -Img
- *         -Name of Resturent
- *         - star rating
- *         -cuisine ,etc.
- *         -delivery time
- * Footer
- *  -CopyRight
- *  -Links
- *  -Address
- *  -Contact
  
  <!-- #React hooks  -->
 
